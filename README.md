@@ -1,6 +1,6 @@
 # API de Gerenciamento de Lanches
 
-API REST desenvolvida com FastAPI para gerenciamento de lanches, usuários e produtos.
+API REST desenvolvida com FastAPI para gerenciamento de usuários e produtos.
 
 ## 🚀 Tecnologias Utilizadas
 
